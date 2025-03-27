@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Sayan Bhowmick / Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sayan Bhowmick"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://sayan-bhowmick23.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Sayan-Bhowmick23/Sayan-Bhowmick23.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sayan Bhowmick"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Indian Institute of Technology Madras"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "connect.sayanbhowmick@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
