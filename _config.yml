@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "https://bsky.app/profile/ogredzeus.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "@ogredzeus.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
-  lastfm           : https://www.last.fm/user/SayanHears # Username
+  lastfm           : SayanHears # Username
   linkedin         : bhowmick-sayan/ # Username
   mastodon         : # URL
   medium           : # URL
